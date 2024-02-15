@@ -1,4 +1,11 @@
 
+L
+java:S3740	"/Provide the parametrized type for this generic.(Â“¦–8ğÑÛ“Ú1
 7
-java:S1220""Move this file to a named package.8¯»ÓÏÙ1
-F	java:S106"+Replace this use of System.out by a logger.(ñáÉ*8¬™ÔÏÙ1
+java:S1220""Move this file to a named package.8ğÑÛ“Ú1
+F	java:S106"+Replace this use of System.out by a logger.(ñáÉ*8óÑÛ“Ú1
+F	java:S106"+Replace this use of System.out by a logger.(ñáÉ*8óÑÛ“Ú1
+L	java:S106
+"+Replace this use of System.out by a logger.(İ˜½…ùÿÿÿÿ8©£Ü“Ú1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8õÑÛ“Ú1
